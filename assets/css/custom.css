@@ -3,6 +3,9 @@
 nav{
 
 }
+body{
+	padding-bottom: 40px;
+}
 #allproj{
 	display: none;
 }
