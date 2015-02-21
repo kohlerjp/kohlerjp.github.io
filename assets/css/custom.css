@@ -19,6 +19,9 @@ body{
 #myname{
 	background-color:rgba(128, 128, 128, 0.3)
 }
+.username{
+	color: maroon;
+}
 .jumbotron{
 
 	color: white;
@@ -28,10 +31,16 @@ padding-bottom: 26px;
 	background: url('../../assets/images/florence1.jpg') ;
 }
 .jumbotron{
-	background: url('../../assets/images/jumbo1.jpg');
+	background: url('../../assets/images/golden-gate-copy.jpg');
 	background-repeat: no-repeat;
 	height: 400px;
 	padding-top: 113px;
+}
+#projbutton{
+	margin-top: 30px;
+}
+.bloglink{
+	margin-top: 30px;
 }
 .myactive{
 	background-color: rgb(160, 217, 224);
